@@ -3754,6 +3754,7 @@
       <string>Bebé Demonio</string>
       <string>Bébé Démoniaque</string>
       <string>Démon Baba</string>
+
     </key>
     <key name="DEMON_BABY_DESCRIPTION">
       <string>Auto-turret friend</string>
@@ -3797,7 +3798,7 @@
       <string>Ouija-Brett</string>
       <string>Tabla Ouija</string>
       <string>Planche de Ouija</string>
-      <string>kakizos</string>
+      <string>Szellem Abc</string>
     </key>
     <key name="OUIJA_BOARD_DESCRIPTION">
       <string>Spectral tears + tears up</string>
@@ -3808,7 +3809,7 @@
       <string>Spektrale Tränen + Tränen hoch</string>
       <string>Lágrimas espectrales, + Lágrimas</string>
       <string>Larmes spectrales + débit augmenté</string>
-      <string>kakizos</string>
+      <string>Szellem könnyek</string>
     </key>
     <key name="9_VOLT_NAME">
       <string>9 Volt</string>
@@ -3852,7 +3853,7 @@
       <string>Schützender Kumpel</string>
       <string>Compañero protector</string>
       <string>Ami protecteur</string>
-      <string>kakizos</string>
+      <string>Testőr</string>
     </key>
     <key name="BRIMSTONE_NAME">
       <string>Brimstone</string>
@@ -3863,7 +3864,7 @@
       <string>Schwefel</string>
       <string>Azufre</string>
       <string>Soufre</string>
-      <string>kakizos</string>
+      <string>Kénkő</string>
     </key>
     <key name="BRIMSTONE_DESCRIPTION">
       <string>Blood laser barrage</string>
@@ -3874,7 +3875,7 @@
       <string>Blutlaser-Salve</string>
       <string>Avalancha de sangre láser</string>
       <string>Barrage de sang</string>
-      <string>kakizos</string>
+      <string>Vérköpő</string>
     </key>
     <key name="BLOOD_BAG_NAME">
       <string>Blood Bag</string>
@@ -3885,7 +3886,7 @@
       <string>Blutbeutel</string>
       <string>Bolsa de Sangre</string>
       <string>Poche de Sang</string>
-      <string>kakizos</string>
+      <string></string>
     </key>
     <key name="BLOOD_BAG_DESCRIPTION">
       <string>HP + speed up</string>
