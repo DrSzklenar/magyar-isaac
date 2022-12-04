@@ -1531,7 +1531,7 @@
       <string>Skatol</string>
       <string>Escatol</string>
       <string>Scatol</string>
-      <string>Szarás</string>
+      <string>kakizos</string>
     </key>
     <key name="SKATOLE_DESCRIPTION">
       <string>Fly love</string>
@@ -1542,7 +1542,7 @@
       <string>Fliegenliebe</string>
       <string>Amor de mosca</string>
       <string>Amour diptérique</string>
-      <string>Szarás</string>
+      <string>kakizos</string>
     </key>
     <key name="HALO_OF_FLIES_NAME">
       <string>Halo of Flies</string>
@@ -1553,7 +1553,7 @@
       <string>Fliegen-Halo</string>
       <string>Halo de moscas</string>
       <string>Couronne de Mouches</string>
-      <string>A legyek gyűrűje</string>
+      <string>kakizos</string>
     </key>
     <key name="HALO_OF_FLIES_DESCRIPTION">
       <string>Projectile protection</string>
@@ -1564,7 +1564,7 @@
       <string>Projektilschutz</string>
       <string>Protección antiproyectiles</string>
       <string>Protection diptérique</string>
-      <string>Lövedék védelem</string>
+      <string>kakizos</string>
     </key>
     <key name="1UP_NAME">
       <string>1up!</string>
@@ -1575,7 +1575,7 @@
       <string>1-Up!</string>
       <string>¡+1!</string>
       <string>1-UP !</string>
-      <string>1-UP!</string>
+      <string>kakizos</string>
     </key>
     <key name="1UP_DESCRIPTION">
       <string>Extra life</string>
@@ -1586,7 +1586,7 @@
       <string>Extraleben</string>
       <string>Vida extra</string>
       <string>Vie supplémentaire</string>
-      <string>Extra élet</string>
+      <string>kakizos</string>
     </key>
     <key name="MAGIC_MUSHROOM_NAME">
       <string>Magic Mushroom</string>
@@ -1597,7 +1597,7 @@
       <string>Fliegenpilz</string>
       <string>Hongo mágico</string>
       <string>Champignon Magique</string>
-      <string>Varázs Gomba</string>
+      <string>kakizos</string>
     </key>
     <key name="MAGIC_MUSHROOM_DESCRIPTION">
       <string>All stats up!</string>
@@ -1608,7 +1608,7 @@
       <string>Alle Werte hoch!</string>
       <string>Mejora todas las estadísticas</string>
       <string>Toutes les stats augmentées !</string>
-      <string>Minden Stat Fel!</string>
+      <string>kakizos</string>
     </key>
     <key name="THE_VIRUS_NAME">
       <string>The Virus</string>
@@ -1619,7 +1619,7 @@
       <string>Das Virus</string>
       <string>El virus</string>
       <string>Le Virus</string>
-      <string>A vírus</string>
+      <string>A virus</string>
     </key>
     <key name="THE_VIRUS_DESCRIPTION">
       <string>Poison touch + speed up</string>
@@ -1938,7 +1938,7 @@
       <string>Tempo hoch</string>
       <string>+ Velocidad</string>
       <string>Vitesse augmentée</string>
-      <string>Elpicsáz</string>
+      <string>kaklanaf</string>
     </key>
     <key name="THE_BELT_NAME">
       <string>The Belt</string>
@@ -2048,7 +2048,7 @@
       <string>Tränen hoch</string>
       <string>+ Lágrimas</string>
       <string>Débit augmenté</string>
-      <string>Jobban sírsz</string>
+      <string></string>
     </key>
     <key name="THE_BIBLE_NAME">
       <string>The Bible</string>
@@ -2103,7 +2103,7 @@
       <string>Das Necronomicon</string>
       <string>El Necronomicón</string>
       <string>Necronomicon</string>
-      <string>A Holtak Könyve</string>
+      <string>kakizos</string>
     </key>
     <key name="THE_NECRONOMICON_DESCRIPTION">
       <string>Mass room damage</string>
@@ -2114,7 +2114,7 @@
       <string>Massenraumschaden</string>
       <string>Daño masivo en sala</string>
       <string>Dégâts de masse</string>
-      <string>Többletsebzés</string>
+      <string>kakizos</string>
     </key>
     <key name="THE_POOP_NAME">
       <string>RARBATAF</string>
@@ -2169,7 +2169,7 @@
       <string>Tammys Kopf</string>
       <string>Cabeza de Tammy</string>
       <string>Tête de Tammy</string>
-      <string>Tammy nagy feje</string>
+      <string></string>
     </key>
     <key name="TAMMYS_HEAD_DESCRIPTION">
       <string>Reusable tear burst</string>
@@ -2180,7 +2180,7 @@
       <string>Wiederverwendbare Tränenexplosion</string>
       <string>Estallido de lágrimas (varios usos)</string>
       <string>Explosion de larmes</string>
-      <string>Időszakos könny robbanás</string>
+      <string>kakizos</string>
     </key>
     <key name="MOMS_BRA_NAME">
       <string>Mom's Bra</string>
@@ -2191,7 +2191,7 @@
       <string>Mamas BH</string>
       <string>Sostén de Mamá</string>
       <string>Soutien-Gorge de Maman</string>
-      <string>Anyuci melltartója</string>
+      <string>kakizos</string>
     </key>
     <key name="MOMS_BRA_DESCRIPTION">
       <string>Mass paralysis</string>
@@ -2202,7 +2202,7 @@
       <string>Massenlähmung</string>
       <string>Parálisis masiva</string>
       <string>Paralysie de masse</string>
-      <string>Tömeg paralízis</string>
+      <string>kakizos</string>
     </key>
     <key name="KAMIKAZE_NAME">
       <string>Kamikaze!</string>
@@ -2213,7 +2213,7 @@
       <string>Kamikaze!</string>
       <string>¡Kamikaze!</string>
       <string>Kamikaze !</string>
-      <string>Kamikaze</string>
+      <string>kakizos</string>
     </key>
     <key name="KAMIKAZE_DESCRIPTION">
       <string>Become the bomb!</string>
@@ -2224,7 +2224,7 @@
       <string>Werde zur Bombe!</string>
       <string>¡Sé la bomba!</string>
       <string>Deviens la bombe !</string>
-      <string>Hát ez maga a téboly</string>
+      <string>kakizos</string>
     </key>
     <key name="MOMS_PAD_NAME">
       <string>Mom's Pad</string>
@@ -2235,7 +2235,7 @@
       <string>Mamas Slipeinlage</string>
       <string>Toallita de Mamá</string>
       <string>Serviette de Maman</string>
-      <string>Anyuci padja</string>
+      <string>kakizos</string>
     </key>
     <key name="MOMS_PAD_DESCRIPTION">
       <string>Mass fear</string>
@@ -2246,7 +2246,7 @@
       <string>Massenpanik</string>
       <string>Temor masivo</string>
       <string>Terreur de masse</string>
-      <string>Tömeg félelem</string>
+      <string>kakizos</string>
     </key>
     <key name="BOBS_ROTTEN_HEAD_NAME">
       <string>Bob's Rotten Head</string>
@@ -2301,7 +2301,7 @@
       <string>Leckeres Herz</string>
       <string>Delicioso Corazón</string>
       <string>Joli Cœur</string>
-      <string>Nyamm szív</string>
+      <string>kakizos</string>
     </key>
     <key name="YUM_HEART_DESCRIPTION">
       <string>Reusable regeneration</string>
@@ -2312,7 +2312,7 @@
       <string>Wiederverwendbare Regeneration</string>
       <string>Regeneración (varios usos)</string>
       <string>Régénération réutilisable</string>
-      <string>Újrahasználható regeneráció</string>
+      <string>kakizos</string>
     </key>
     <key name="LUCKY_FOOT_NAME">
       <string>Lucky Foot</string>
@@ -2345,7 +2345,7 @@
       <string>Doktor-Fernbedienung</string>
       <string>Control Remoto de Doctor</string>
       <string>Télécommande du Docteur</string>
-      <string>A professzor távirányítója</string>
+      <string></string>
     </key>
     <key name="DOCTORS_REMOTE_DESCRIPTION">
       <string>Reusable air strike</string>
@@ -2356,7 +2356,7 @@
       <string>Wiederverwendbarer Luftangriff</string>
       <string>Ataque aéreo (varios usos)</string>
       <string>Attaque aérienne</string>
-      <string>Légi támadás</string>
+      <string>kakizos</string>
     </key>
     <key name="CUPIDS_ARROW_NAME">
       <string>Cupid's Arrow</string>
@@ -2367,7 +2367,7 @@
       <string>Amors Pfeil</string>
       <string>Flecha de Cupido</string>
       <string>Flèche de Cupidon</string>
-      <string>Cupido nyila</string>
+      <string></string>
     </key>
     <key name="CUPIDS_ARROW_DESCRIPTION">
       <string>Piercing shots</string>
@@ -2378,7 +2378,7 @@
       <string>Durchdringende Schüsse</string>
       <string>Lágrimas perforantes</string>
       <string>Larmes transperçantes</string>
-      <string>Áthatoló nyilak</string>
+      <string>kakizos</string>
     </key>
     <key name="SHOOP_DA_WHOOP_NAME">
       <string>Shoop da Whoop!</string>
@@ -2389,7 +2389,7 @@
       <string>Zack-di-wupp!</string>
       <string>Kamehame... ¡¿Eeeeeeh?!</string>
       <string>Super Laser de la Mort</string>
-      <string>bluggy da krutty</string>
+      <string></string>
     </key>
     <key name="SHOOP_DA_WHOOP_DESCRIPTION">
       <string>BLLLARRRRGGG!</string>
@@ -2400,7 +2400,7 @@
       <string>BLLLARRRRGGG!</string>
       <string>¡BLLLARRRRGGG!</string>
       <string>BLLEEUUAARRGH !!</string>
-      <string>KRAAAAAAAAH!</string>
+      <string>kakizos</string>
     </key>
     <key name="STEVEN_NAME">
       <string>Steven</string>
@@ -2477,7 +2477,7 @@
       <string>Magneto</string>
       <string>Magneto</string>
       <string>Gros Aimant</string>
-      <string>Magneto</string>
+      <string>kakizos</string>
     </key>
     <key name="MAGNETO_DESCRIPTION">
       <string>Item snatcher</string>
@@ -2488,7 +2488,7 @@
       <string>Itemschnapper</string>
       <string>Ladrón de objetos</string>
       <string>Attire les objets</string>
-      <string>Kacat rabló</string>
+      <string>kakizos</string>
     </key>
     <key name="TREASURE_MAP_NAME">
       <string>Treasure Map</string>
@@ -2521,7 +2521,7 @@
       <string>Mamas Auge</string>
       <string>Ojo de Mamá</string>
       <string>Œil de Maman</string>
-      <string>Anyuci Szeme</string>
+      <string>Anya Szeme</string>
     </key>
     <key name="MOMS_EYE_DESCRIPTION">
       <string>Eye in the back of your head</string>
@@ -2565,7 +2565,7 @@
       <string>Ferne Bewunderung</string>
       <string>Admiración lejana</string>
       <string>Admiration Distante</string>
-      <string>Távoli Ámulat</string>
+      <string>kakizos</string>
     </key>
     <key name="DISTANT_ADMIRATION_DESCRIPTION">
       <string>Attack fly</string>
@@ -2576,7 +2576,7 @@
       <string>Angriffsfliege</string>
       <string>Mosca de asalto</string>
       <string>Mouche d'attaque</string>
-      <string>Támadó légy</string>
+      <string>kakizos</string>
     </key>
     <key name="BOOK_OF_SHADOWS_NAME">
       <string>Book of Shadows</string>
@@ -2598,7 +2598,7 @@
       <string>Temporäre Unbesiegbarkeit</string>
       <string>Invencibilidad temporal</string>
       <string>Invincibilité temporaire</string>
-      <string>Időszakos sebezhetetlenség</string>
+      <string>Ideiglenes sebezhetetlenség</string>
     </key>
     <key name="THE_LADDER_NAME">
       <string>The Ladder</string>
@@ -2631,7 +2631,7 @@
       <string>Zauber des Vampirs</string>
       <string>Encanto del Vampiro</string>
       <string>Morsure de Vampire</string>
-      <string>Vámpír talizmán</string>
+      <string>kakizos</string>
     </key>
     <key name="CHARM_OF_THE_VAMPIRE_DESCRIPTION">
       <string>DMG up + kills heal</string>
@@ -2642,7 +2642,7 @@
       <string>Kills heilen</string>
       <string>Matar sana</string>
       <string>Sang salvateur</string>
-      <string>Több sebzés + Vér szívás</string>
+      <string>kakizos</string>
     </key>
     <key name="THE_BATTERY_NAME">
       <string>The Battery</string>
@@ -2697,7 +2697,7 @@
       <string>Anarchisten-Kochbuch</string>
       <string>Recetario de Anarquista</string>
       <string>Guide du Petit Anarchiste</string>
-      <string>Anarchista Receptkönyv</string>
+      <string>kakizos</string>
     </key>
     <key name="ANARCHIST_COOKBOOK_DESCRIPTION">
       <string>Summon bombs</string>
@@ -2708,7 +2708,7 @@
       <string>Bomben beschwören</string>
       <string>Invocas bombas</string>
       <string>Destruction</string>
-      <string>Bombákat idéz</string>
+      <string>kakizos</string>
     </key>
     <key name="THE_HOURGLASS_NAME">
       <string>The Hourglass</string>
@@ -2741,7 +2741,7 @@
       <string>Schwester Maggy</string>
       <string>Hermana Maggy</string>
       <string>Sœurette Marie</string>
-      <string>Manci nővérke</string>
+      <string>kakizos</string>
     </key>
     <key name="SISTER_MAGGY_DESCRIPTION">
       <string>Friends 'till the end</string>
@@ -2752,7 +2752,7 @@
       <string>Freunde bis zum Ende</string>
       <string>Amigos hasta el fin</string>
       <string>Amis pour la vie</string>
-      <string>Barátok mindhalálig</string>
+      <string>kakizos</string>
     </key>
     <key name="TECHNOLOGY_NAME">
       <string>Technology</string>
@@ -2763,7 +2763,7 @@
       <string>Technologie</string>
       <string>Tecnología</string>
       <string>Technologie</string>
-      <string>Szerkentyű</string>
+      <string>kakizos</string>
     </key>
     <key name="TECHNOLOGY_DESCRIPTION">
       <string>Laser tears</string>
@@ -2796,7 +2796,7 @@
       <string>Aufladbare Schüsse</string>
       <string>Recarga disparos</string>
       <string>Tirs chargés</string>
-      <string>Ki ne öntsd</string>
+      <string>kakizos</string>
     </key>
     <key name="GROWTH_HORMONES_NAME">
       <string>Growth Hormones</string>
@@ -2829,7 +2829,7 @@
       <string>Minipilz</string>
       <string>Honguito</string>
       <string>Mini Champi</string>
-      <string>Pici Gomba</string>
+      <string>Kis Gomba</string>
     </key>
     <key name="MINI_MUSH_DESCRIPTION">
       <string>Speed + range up</string>
@@ -2895,7 +2895,7 @@
       <string>Ein Vierteldollar</string>
       <string>Un cuarto</string>
       <string>Une Petite Pièce</string>
-      <string>100 Forint</string>
+      <string>kakizos</string>
     </key>
     <key name="A_QUARTER_DESCRIPTION">
       <string>+25 coins</string>
@@ -2906,7 +2906,7 @@
       <string>+25 Münzen</string>
       <string>+25 monedas</string>
       <string>+25 centimes</string>
-      <string>+25 bitkón</string>
+      <string>kakizos</string>
     </key>
     <key name="PHD_NAME">
       <string>PHD</string>
@@ -3335,7 +3335,7 @@
       <string>Sack voller Pennies</string>
       <string>Bolsa de centavos</string>
       <string>Bourse</string>
-      <string>Pénzezssák</string>
+      <string>Pénzessák</string>
     </key>
     <key name="SACK_OF_PENNIES_DESCRIPTION">
       <string>Gives money</string>
@@ -3754,6 +3754,7 @@
       <string>Bebé Demonio</string>
       <string>Bébé Démoniaque</string>
       <string>Démon Baba</string>
+
     </key>
     <key name="DEMON_BABY_DESCRIPTION">
       <string>Auto-turret friend</string>
@@ -5029,7 +5030,7 @@
       <string>Spinnenpopo</string>
       <string>Trasero Aracnido</string>
       <string>Filière d'Araignée</string>
-      <string>Pók segg</string>
+      <string>kakizos</string>
     </key>
     <key name="SPIDER_BUTT_DESCRIPTION">
       <string>Mass enemy slowdown + damage</string>
@@ -5359,7 +5360,7 @@
       <string>Blutrechte</string>
       <string>Derechos de sangre</string>
       <string>Droits du Sang</string>
-      <string>kakizos</string>
+      <string>Vérjog</string>
     </key>
     <key name="BLOOD_RIGHTS_DESCRIPTION">
       <string>Mass enemy damage at a cost</string>
@@ -5370,7 +5371,7 @@
       <string>Massenschaden an Gegnern zu einem Preis</string>
       <string>Daño masivo a enemigos por un costo</string>
       <string>Dégâts de masse... pour un prix</string>
-      <string>kakizos</string>
+      <string>Többletsebzés, na de milyen áron</string>
     </key>
     <key name="GUPPYS_HAIRBALL_NAME">
       <string>Guppy's Hairball</string>
@@ -5425,7 +5426,7 @@
       <string>SMB-Superfan</string>
       <string>Súper Fan de SMB</string>
       <string>Super Fan de SMB</string>
-      <string>kakizos</string>
+      <string>SMB Szuper Ranjongó</string>
     </key>
     <key name="SMB_SUPER_FAN_DESCRIPTION">
       <string>All stats up</string>
@@ -5436,7 +5437,7 @@
       <string>Alle Werte hoch</string>
       <string>Mejora todas las estadísticas</string>
       <string>Toutes les stats augmentées</string>
-      <string>kakizos</string>
+      <string>Minden stat fel!</string>
     </key>
     <key name="PYRO_NAME">
       <string>Pyro</string>
@@ -5447,7 +5448,7 @@
       <string>Pyro</string>
       <string>Piro</string>
       <string>Pyro</string>
-      <string>kakizos</string>
+      <string>A piró</string>
     </key>
     <key name="PYRO_DESCRIPTION">
       <string>99 bombs</string>
@@ -5458,7 +5459,7 @@
       <string>99 Bomben</string>
       <string>99 bombas</string>
       <string>99 bombes</string>
-      <string>kakizos</string>
+      <string>99 bomba</string>
     </key>
     <key name="3_DOLLAR_BILL_NAME">
       <string>3 Dollar Bill</string>
@@ -5535,7 +5536,7 @@
       <string>Schwarze Zauberkugel</string>
       <string>Bola 8 mágica</string>
       <string>Boule Magique</string>
-      <string>kakizos</string>
+      <string>A Mágikus Golyó</string>
     </key>
     <key name="MAGIC_8_BALL_DESCRIPTION">
       <string>Shot speed up</string>
@@ -5546,7 +5547,7 @@
       <string>Schusstempo hoch</string>
       <string>+ Velocidad de lágrimas</string>
       <string>Vitesse des tirs augmentée</string>
-      <string>kakizos</string>
+      <string>sheeeesh</string>
     </key>
     <key name="MOMS_COIN_PURSE_NAME">
       <string>Mom's Coin Purse</string>
@@ -5590,7 +5591,7 @@
       <string>Tränen hoch</string>
       <string>+ Lágrimas</string>
       <string>Débit augmenté</string>
-      <string>kakizos</string>
+      <string>Gyorsabb sírás</string>
     </key>
     <key name="JESUS_JUICE_NAME">
       <string>Jesus Juice</string>
@@ -5601,7 +5602,7 @@
       <string>Jesus-Getränk</string>
       <string>Jugo de Jesús</string>
       <string>Sang du Christ</string>
-      <string></string>
+      <string>kakizos</string>
     </key>
     <key name="JESUS_JUICE_DESCRIPTION">
       <string>Damage + range up</string>
@@ -5689,7 +5690,7 @@
       <string>Eisenstange</string>
       <string>Barra de hierro</string>
       <string>Lingot de Fer</string>
-      <string>kakizos</string>
+      <string>Vasrúd</string>
     </key>
     <key name="IRON_BAR_DESCRIPTION">
       <string>DMG up + concussive tears</string>
@@ -13543,7 +13544,7 @@
       <string>120 Volt</string>
       <string>120 voltios</string>
       <string>120 Volts</string>
-      <string>kakizos</string>
+      <string>A 120 Voltos</string>
     </key>
     <key name="120_VOLT_DESCRIPTION">
       <string>Zap!</string>
@@ -13554,7 +13555,7 @@
       <string>Bzzzt!</string>
       <string>¡Bzttt!</string>
       <string>Zap !</string>
-      <string>kakizos</string>
+      <string>Bzztztzzgght!</string>
     </key>
     <key name="IT_HURTS_NAME">
       <string>It Hurts</string>
@@ -13565,7 +13566,7 @@
       <string>Das tut weh</string>
       <string>Duele...</string>
       <string>Motus</string>
-      <string>kakizos</string>
+      <string>Fááááj!</string>
     </key>
     <key name="IT_HURTS_DESCRIPTION">
       <string>No it doesn't...</string>
@@ -13576,7 +13577,7 @@
       <string>Nein, tut es nicht ...</string>
       <string>No, no lo hace...</string>
       <string>Et bouche cousue...</string>
-      <string>kakizos</string>
+      <string>Dehogy is!</string>
     </key>
     <key name="ALMOND_MILK_NAME">
       <string>Almond Milk</string>
@@ -13587,7 +13588,7 @@
       <string>Mandelmilch</string>
       <string>Leche de almendras</string>
       <string>Lait d'Amande</string>
-      <string>kakizos</string>
+      <string>Mandula tej</string>
     </key>
     <key name="ALMOND_MILK_DESCRIPTION">
       <string>DMG down + tears up + you feel nutty</string>

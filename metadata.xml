@@ -1,8 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-	<name>Test Mod 123</name>
-	<directory>test mod 123</directory>
-	<description/>
-	<version>1.0</version>
-	<visibility/>
+    <name>!!!Magyar Isaac</name>
+    <directory>magyar isaac</directory>
+    <id>2896089058</id>
+    <description>Magyar Binding of Isaac softonic.com letoltes ingyen 2022 HD</description>
+    <version>1.1</version>
+    <visibility>Private</visibility>
+    <tag id="Items"/>
+    <tag id="Tweaks"/>
 </metadata>
-
