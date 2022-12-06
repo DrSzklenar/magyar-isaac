@@ -5602,7 +5602,7 @@
       <string>Jesus-Getränk</string>
       <string>Jugo de Jesús</string>
       <string>Sang du Christ</string>
-      <string>kakizos</string>
+      <string>Jézus Lötty</string>
     </key>
     <key name="JESUS_JUICE_DESCRIPTION">
       <string>Damage + range up</string>
@@ -5613,7 +5613,7 @@
       <string>Schaden + Reichweite hoch</string>
       <string>+ Daño, + Alcance</string>
       <string>Dégâts et portée augmentés</string>
-      <string>kakizos</string>
+      <string>Sebzés + Messzebb</string>
     </key>
     <key name="BOX_NAME">
       <string>Box</string>
@@ -5657,7 +5657,7 @@
       <string>Bessere Truhenbeute +2 Schlüssel</string>
       <string>Mejor botín de cofres, +2 llaves</string>
       <string>Meilleurs coffres + 2 clés</string>
-      <string>kakizos</string>
+      <string>Faszább cuccok + 2 kulcs</string>
     </key>
     <key name="MOMS_EYESHADOW_NAME">
       <string>Mom's Eyeshadow</string>
@@ -5701,7 +5701,7 @@
       <string>Schaden hoch + erschütternde Tränen</string>
       <string>+ Daño, Lágrimas de conmoción</string>
       <string>Dégâts augmentés + larmes étourdissantes</string>
-      <string>kakizos</string>
+      <string>Sebzés + Agyrázkódás könnyek</string>
     </key>
     <key name="MIDAS_TOUCH_NAME">
       <string>Midas' Touch</string>
@@ -5712,7 +5712,7 @@
       <string>Midas' Berührung</string>
       <string>Toque de Midas</string>
       <string>Malédiction de Midas</string>
-      <string>kakizos</string>
+      <string>Midas éritése</string>
     </key>
     <key name="MIDAS_TOUCH_DESCRIPTION">
       <string>Golden touch</string>
@@ -5723,7 +5723,7 @@
       <string>Goldene Berührung</string>
       <string>Toque dorado</string>
       <string>Touche le pactole</string>
-      <string>kakizos</string>
+      <string>Arany érintés</string>
     </key>
     <key name="HUMBLEING_BUNDLE_NAME">
       <string>Humbleing Bundle</string>
@@ -5734,7 +5734,7 @@
       <string>Großzügiges Bündel</string>
       <string>Humbleing Bundle</string>
       <string>Offre Spéciale</string>
-      <string>kakizos</string>
+      <string>Kótyagos Csomag</string>
     </key>
     <key name="HUMBLEING_BUNDLE_DESCRIPTION">
       <string>1+1 free 4Evar</string>
@@ -5745,7 +5745,7 @@
       <string>1+1 gratis für immer</string>
       <string>1+1 gratis X siempre</string>
       <string>1 acheté, 1 offert</string>
-      <string>kakizos</string>
+      <string>1-et fizetsz 2-t kapsz</string>
     </key>
     <key name="FANNY_PACK_NAME">
       <string>Fanny Pack</string>
