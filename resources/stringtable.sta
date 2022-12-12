@@ -17591,7 +17591,7 @@
       <string>Affenpfote</string>
       <string>Pata de Mono</string>
       <string>Patte de Singe</string>
-      <string>kakizos</string>
+      <string>Majom Mancsa</string>
     </key>
     <key name="MONKEY_PAW_DESCRIPTION">
       <string>Wish granted</string>
@@ -17602,7 +17602,7 @@
       <string>Wunsch erfüllt</string>
       <string>Deseo complido</string>
       <string>Ton vœu est exaucé</string>
-      <string>kakizos</string>
+      <string>Kívánság teljesítve</string>
     </key>
     <key name="MYSTERIOUS_PAPER_NAME">
       <string>Mysterious Paper</string>
