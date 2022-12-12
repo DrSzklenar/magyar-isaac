@@ -12190,7 +12190,7 @@
       <string>Tarn-Kid</string>
       <string>Camo kid</string>
       <string>On me voit... On me voit plus</string>
-      <string>kakizos</string>
+      <string>Most itt vagyok most nem vagyok itt</string>
     </key>
     <key name="DUALITY_NAME">
       <string>Duality</string>
@@ -12586,7 +12586,7 @@
       <string>Schön eingepackt für dich!</string>
       <string>¡Envuelto solo para ti!</string>
       <string>Tu ne devineras jamais ce que c'est !</string>
-      <string>kakizos</string>
+      <string>Vajon mi lehet benne!</string>
     </key>
     <key name="SPRINKLER_NAME">
       <string>Sprinkler</string>
@@ -13224,7 +13224,7 @@
       <string>Zeit zum Abstechen</string>
       <string>Hora de apuñalar</string>
       <string>Lance l'os</string>
-      <string>kakizos</string>
+      <string></string>
     </key>
     <key name="BOOK_OF_THE_DEAD_NAME">
       <string>Book of the Dead</string>
@@ -14236,7 +14236,7 @@
       <string>TP hoch + du fühlst dich unwiderstehlich</string>
       <string>+ Vida; te sientes hermoso</string>
       <string>PV augmentés + beauté envoûtante</string>
-      <string>kakizos</string>
+      <string>Több szív + Szépnek érzed magad</string>
     </key>
     <key name="TERRA_NAME">
       <string>Terra</string>
@@ -14269,7 +14269,7 @@
       <string>Mars</string>
       <string>Mars</string>
       <string>Mars</string>
-      <string>kakizos</string>
+      <string>Mars</string>
     </key>
     <key name="MARS_DESCRIPTION">
       <string>Double tap dash</string>
@@ -14291,7 +14291,7 @@
       <string>Jupiter</string>
       <string>Jupiter</string>
       <string>Jupiter</string>
-      <string>kakizos</string>
+      <string>Jupiter</string>
     </key>
     <key name="JUPITER_DESCRIPTION">
       <string>You're a gas giant!</string>
@@ -14313,7 +14313,7 @@
       <string>Saturn</string>
       <string>Saturnus</string>
       <string>Saturnus</string>
-      <string>kakizos</string>
+      <string>Saturnus</string>
     </key>
     <key name="SATURNUS_DESCRIPTION">
       <string>Ring of tears</string>
@@ -14324,7 +14324,7 @@
       <string>Ring der Tränen</string>
       <string>Anillo de lágrimas</string>
       <string>Cercle de larmes</string>
-      <string>kakizos</string>
+      <string>Könnyek gyűrűje</string>
     </key>
     <key name="URANUS_NAME">
       <string>Uranus</string>
@@ -14335,7 +14335,7 @@
       <string>Uranus</string>
       <string>Uranus</string>
       <string>Uranus</string>
-      <string>kakizos</string>
+      <string>Uranus</string>
     </key>
     <key name="URANUS_DESCRIPTION">
       <string>Ice tears</string>
@@ -14346,7 +14346,7 @@
       <string>Eistränen</string>
       <string>Lágrimas heladas</string>
       <string>Larmes de glace</string>
-      <string>kakizos</string>
+      <string>Jég könnyek</string>
     </key>
     <key name="NEPTUNUS_NAME">
       <string>Neptunus</string>
@@ -14357,7 +14357,7 @@
       <string>Neptun</string>
       <string>Neptunus</string>
       <string>Neptunus</string>
-      <string>kakizos</string>
+      <string>Neptunus</string>
     </key>
     <key name="NEPTUNUS_DESCRIPTION">
       <string>Open the floodgates</string>
@@ -14390,7 +14390,7 @@
       <string>Geschrumpft</string>
       <string>Muuuy pequeño</string>
       <string>Minuscule</string>
-      <string>kakizos</string>
+      <string>Kisebb vagy</string>
     </key>
     <key name="VOODOO_HEAD_NAME">
       <string>Voodoo Head</string>
@@ -15402,7 +15402,7 @@
       <string>Zapfe den Saft mit Gewalt ab!</string>
       <string>¡Sacales todo el jugo!</string>
       <string>Fonctionne à l'énergie vitale</string>
-      <string>kakizos</string>
+      <string>Rázd ki belőlük a szart!</string>
     </key>
     <key name="FRUITY_PLUM_NAME">
       <string>Fruity Plum</string>
@@ -17173,7 +17173,7 @@
       <string>Verschluckter Penny</string>
       <string>Moneda Tragada</string>
       <string>Pièce Avalée</string>
-      <string>kakizos</string>
+      <string>Lenyelt Forint</string>
     </key>
     <key name="SWALLOWED_PENNY_DESCRIPTION">
       <string>Gulp!</string>
@@ -17184,7 +17184,7 @@
       <string>Schluck!</string>
       <string>¡Gulp!</string>
       <string>Gloups !</string>
-      <string>kakizos</string>
+      <string>Glugy!</string>
     </key>
     <key name="PETRIFIED_POOP_NAME">
       <string>Petrified Poop</string>
@@ -17195,7 +17195,7 @@
       <string>Versteinerter Kot</string>
       <string>Popó Petrificado</string>
       <string>Caca Pétrifié</string>
-      <string>kakizos</string>
+      <string>Kiszáradt Szar</string>
     </key>
     <key name="PETRIFIED_POOP_DESCRIPTION">
       <string>It feels lucky?</string>
@@ -17206,7 +17206,7 @@
       <string>Bringt Glück?</string>
       <string>¿Se siente con suerte?</string>
       <string>Un porte-bonheur ?</string>
-      <string>kakizos</string>
+      <string>Szerencsésnek tűnik?</string>
     </key>
     <key name="AAA_BATTERY_NAME">
       <string>AAA Battery</string>
@@ -17217,7 +17217,7 @@
       <string>AAA-Batterie</string>
       <string>Batería AAA</string>
       <string>Pile AAA</string>
-      <string>kakizos</string>
+      <string>3A-s elem</string>
     </key>
     <key name="AAA_BATTERY_DESCRIPTION">
       <string>Trickle charge</string>
@@ -17228,7 +17228,7 @@
       <string>Erhaltungsladung</string>
       <string>Algo de carga</string>
       <string>Charge rapide</string>
-      <string>kakizos</string>
+      <string>Gyorstöltés</string>
     </key>
     <key name="BROKEN_REMOTE_NAME">
       <string>Broken Remote</string>
@@ -17239,7 +17239,7 @@
       <string>Defekte Bedienung</string>
       <string>Control Remoto Roto</string>
       <string>Télécommande Cassée</string>
-      <string>kakizos</string>
+      <string>Törött Táviránytó</string>
     </key>
     <key name="BROKEN_REMOTE_DESCRIPTION">
       <string>It's broken</string>
@@ -17250,7 +17250,7 @@
       <string>Sie ist kaputt</string>
       <string>Está roto</string>
       <string>Elle est cassée</string>
-      <string>kakizos</string>
+      <string>El van romolva</string>
     </key>
     <key name="PURPLE_HEART_NAME">
       <string>Purple Heart</string>
@@ -17261,7 +17261,7 @@
       <string>Lila Herz</string>
       <string>Corazón Purpura</string>
       <string>Cœur Violet</string>
-      <string>kakizos</string>
+      <string>Bíbor szív</string>
     </key>
     <key name="PURPLE_HEART_DESCRIPTION">
       <string>Challenge up</string>
@@ -17272,7 +17272,7 @@
       <string>Herausforderung hoch</string>
       <string>+ Desafío</string>
       <string>Difficulté augmentée</string>
-      <string>kakizos</string>
+      <string>Nagyobb kihívás</string>
     </key>
     <key name="BROKEN_MAGNET_NAME">
       <string>Broken Magnet</string>
@@ -17283,7 +17283,7 @@
       <string>Defekter Magnet</string>
       <string>Imán Roto</string>
       <string>Aimant Démagnétisé</string>
-      <string>kakizos</string>
+      <string>Egy Fél Mágnes</string>
     </key>
     <key name="BROKEN_MAGNET_DESCRIPTION">
       <string>It kinda works</string>
@@ -17294,7 +17294,7 @@
       <string>Er funktioniert irgendwie</string>
       <string>Parece que sirve</string>
       <string>Il marche un peu</string>
-      <string>kakizos</string>
+      <string>Majdnem jó</string>
     </key>
     <key name="ROSARY_BEAD_NAME">
       <string>Rosary Bead</string>
@@ -17305,7 +17305,7 @@
       <string>Rosenkranzperle</string>
       <string>Cuenta de rosario</string>
       <string>Perle de Rosaire</string>
-      <string>kakizos</string>
+      <string>Rózsafüzér</string>
     </key>
     <key name="ROSARY_BEAD_DESCRIPTION">
       <string>Faith up</string>
@@ -17316,7 +17316,7 @@
       <string>Glauben hoch</string>
       <string>+ Fe</string>
       <string>Crois en ta foi</string>
-      <string>kakizos</string>
+      <string>A hited nő</string>
     </key>
     <key name="CARTRIDGE_NAME">
       <string>Cartridge</string>
@@ -17327,7 +17327,7 @@
       <string>Kassette</string>
       <string>Cartucho</string>
       <string>Cartouche</string>
-      <string>kakizos</string>
+      <string>Játékkazetta</string>
     </key>
     <key name="CARTRIDGE_DESCRIPTION">
       <string>I remember these</string>
@@ -17338,7 +17338,7 @@
       <string>Ich erinnere mich an die</string>
       <string>Recuerdo esto</string>
       <string>Tu l'as cherchée partout</string>
-      <string>kakizos</string>
+      <string>Milyen nosztalgikus</string>
     </key>
     <key name="PULSE_WORM_NAME">
       <string>Pulse Worm</string>
@@ -17349,7 +17349,7 @@
       <string>Pulswurm</string>
       <string>Gusano de Pulso</string>
       <string>Ver Pulsant</string>
-      <string>kakizos</string>
+      <string>Pulzáló Féreg</string>
     </key>
     <key name="PULSE_WORM_DESCRIPTION">
       <string>Wub wub!</string>
@@ -17360,7 +17360,7 @@
       <string>Wumm-wumm!</string>
       <string>¡Wub wub!</string>
       <string>Wob wob !</string>
-      <string>kakizos</string>
+      <string>Wub Wub!</string>
     </key>
     <key name="WIGGLE_WORM_NAME">
       <string>Wiggle Worm</string>
@@ -17371,7 +17371,7 @@
       <string>Wackelwurm</string>
       <string>Gusano Ondulante</string>
       <string>Ver Remuant</string>
-      <string>kakizos</string>
+      <string>Tekergő Féreg</string>
     </key>
     <key name="WIGGLE_WORM_DESCRIPTION">
       <string>Wiggle waggle!</string>
@@ -17382,7 +17382,7 @@
       <string>Wackel-zappel!</string>
       <string>¡Wiggle waggle!</string>
       <string>Wouw wouw !</string>
-      <string>kakizos</string>
+      <string>Tekereg forog!</string>
     </key>
     <key name="RING_WORM_NAME">
       <string>Ring Worm</string>
@@ -17393,7 +17393,7 @@
       <string>Ringwurm</string>
       <string>Gusano Circular</string>
       <string>Ver Circulaire</string>
-      <string>kakizos</string>
+      <string>Gyűrűsféreg</string>
     </key>
     <key name="RING_WORM_DESCRIPTION">
       <string>Woop woop!</string>
@@ -17404,7 +17404,7 @@
       <string>Wupp-wupp!</string>
       <string>¡Woop woop!</string>
       <string>Woup woup !</string>
-      <string>kakizos</string>
+      <string>Woop woop!</string>
     </key>
     <key name="FLAT_WORM_NAME">
       <string>Flat Worm</string>
@@ -17415,7 +17415,7 @@
       <string>Flacher Wurm</string>
       <string>Gusano plano</string>
       <string>Ver Plat</string>
-      <string>kakizos</string>
+      <string>Laposféreg</string>
     </key>
     <key name="FLAT_WORM_DESCRIPTION">
       <string>Blub blub!</string>
@@ -17426,7 +17426,7 @@
       <string>Blubb-blubb!</string>
       <string>¡Blub blub!</string>
       <string>Bloup bloup !</string>
-      <string>kakizos</string>
+      <string>Bluggy-Bluggy!</string>
     </key>
     <key name="STORE_CREDIT_NAME">
       <string>Store Credit</string>
@@ -17437,7 +17437,7 @@
       <string>Ladenkredit</string>
       <string>Crédito de Tienda</string>
       <string>Bon d'Achat</string>
-      <string>kakizos</string>
+      <string>Klub Kártya</string>
     </key>
     <key name="STORE_CREDIT_DESCRIPTION">
       <string>YES!</string>
@@ -17448,7 +17448,7 @@
       <string>OH JA!</string>
       <string>¡SÍ!</string>
       <string>OUI !</string>
-      <string>kakizos</string>
+      <string>Ezazz!</string>
     </key>
     <key name="CALLUS_NAME">
       <string>Callus</string>
@@ -17459,7 +17459,7 @@
       <string>Hornhaut</string>
       <string>Callo</string>
       <string>Callosités</string>
-      <string>kakizos</string>
+      <string>Bőrkeményedés</string>
     </key>
     <key name="CALLUS_DESCRIPTION">
       <string>Your feet feel stronger</string>
@@ -17470,7 +17470,7 @@
       <string>Deine Füße fühlen sich stärker an</string>
       <string>Tus pies se sienten fuertes</string>
       <string>Tu sens tes pieds durcir</string>
-      <string>kakizos</string>
+      <string>Keményebbek a talpaid</string>
     </key>
     <key name="LUCKY_ROCK_NAME">
       <string>Lucky Rock</string>
@@ -17481,7 +17481,7 @@
       <string>Glücksstein</string>
       <string>Roca de la suerte</string>
       <string>Caillou Porte-Bonheur</string>
-      <string>kakizos</string>
+      <string>Szerencse Kő</string>
     </key>
     <key name="LUCKY_ROCK_DESCRIPTION">
       <string>There's something inside it</string>
@@ -17492,7 +17492,7 @@
       <string>Da ist was drin</string>
       <string>Hay algo dentro</string>
       <string>Le début de la fortune</string>
-      <string>kakizos</string>
+      <string>Valami van a belselyében</string>
     </key>
     <key name="MOMS_TOENAIL_NAME">
       <string>Mom's Toenail</string>
@@ -17503,7 +17503,7 @@
       <string>Mamas Zehennagel</string>
       <string>Uña del pie de Mamá</string>
       <string>Ongle de Pied de Maman</string>
-      <string>kakizos</string>
+      <string>Anyuci Lábkörme</string>
     </key>
     <key name="MOMS_TOENAIL_DESCRIPTION">
       <string>???</string>
@@ -17514,7 +17514,7 @@
       <string>???</string>
       <string>???</string>
       <string>???</string>
-      <string>kakizos</string>
+      <string>???</string>
     </key>
     <key name="BLACK_LIPSTICK_NAME">
       <string>Black Lipstick</string>
@@ -17525,7 +17525,7 @@
       <string>Schwarzer Lippenstift</string>
       <string>Labial negro</string>
       <string>Noir à Lèvres</string>
-      <string>kakizos</string>
+      <string>Fekete Rúzs</string>
     </key>
     <key name="BLACK_LIPSTICK_DESCRIPTION">
       <string>Evil up</string>
@@ -17536,7 +17536,7 @@
       <string>Böses hoch</string>
       <string>+ Maldad</string>
       <string>Ton cœur s'assombrit</string>
-      <string>kakizos</string>
+      <string>+Gonoszság</string>
     </key>
     <key name="BIBLE_TRACT_NAME">
       <string>Bible Tract</string>
@@ -17547,7 +17547,7 @@
       <string>Bibeltraktat</string>
       <string>Folleto Biblico</string>
       <string>Brochure Religieuse</string>
-      <string>kakizos</string>
+      <string>Biblia Kötet</string>
     </key>
     <key name="BIBLE_TRACT_DESCRIPTION">
       <string>Faith up</string>
@@ -17558,7 +17558,7 @@
       <string>Glauben hoch</string>
       <string>+ Fe</string>
       <string>Pour une lumière éternelle</string>
-      <string>kakizos</string>
+      <string>Erősödik a hited</string>
     </key>
     <key name="PAPER_CLIP_NAME">
       <string>Paper Clip</string>
@@ -17569,7 +17569,7 @@
       <string>Büroklammer</string>
       <string>Clip de Papel</string>
       <string>Trombone</string>
-      <string>kakizos</string>
+      <string>Gémkapocs</string>
     </key>
     <key name="PAPER_CLIP_DESCRIPTION">
       <string>Master of lockpicking</string>
@@ -17580,7 +17580,7 @@
       <string>Meister des Schlossknackens</string>
       <string>Maestro en abrir cerraduras</string>
       <string>Crochetage facile</string>
-      <string>kakizos</string>
+      <string>A zártörés mestere</string>
     </key>
     <key name="MONKEY_PAW_NAME">
       <string>Monkey Paw</string>
