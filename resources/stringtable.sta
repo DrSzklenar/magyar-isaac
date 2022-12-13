@@ -20165,7 +20165,7 @@
       <string>'M</string>
       <string>'M</string>
       <string>M</string>
-      <string>kakizos</string>
+      <string>M</string>
     </key>
     <key name="M_DESCRIPTION">
       <string>t's broken9Reroll your dest</string>
@@ -20176,7 +20176,7 @@
       <string>st kaputt9Würfle dein Schicks</string>
       <string>Es't roto6ambi tu dest</string>
       <string>st cassée9Relance le d</string>
-      <string>kakizos</string>
+      <string>l van romolva5Cseréld le a kac</string>
     </key>
     <key name="TEARDROP_CHARM_NAME">
       <string>Teardrop Charm</string>
@@ -20187,7 +20187,7 @@
       <string>Tropfen-Schmuck</string>
       <string>Talismán gota</string>
       <string>Larmulette</string>
-      <string>kakizos</string>
+      <string>Könny Talizmán</string>
     </key>
     <key name="TEARDROP_CHARM_DESCRIPTION">
       <string>It feels lucky</string>
@@ -20198,7 +20198,7 @@
       <string>Sollte Glück bringen</string>
       <string>Se siente con suerte</string>
       <string>Elle a l'air de porter bonheur</string>
-      <string>kakizos</string>
+      <string>Szerencsédnek tűnik</string>
     </key>
     <key name="APPLE_OF_SODOM_NAME">
       <string>Apple of Sodom</string>
@@ -20209,7 +20209,7 @@
       <string>Apfel von Sodom</string>
       <string>Manzana de Sodoma</string>
       <string>Pomme de Sodome</string>
-      <string>kakizos</string>
+      <string>Szodoma Almája</string>
     </key>
     <key name="APPLE_OF_SODOM_DESCRIPTION">
       <string>It feels empty</string>
@@ -20220,7 +20220,7 @@
       <string>Er fühlt sich hohl an</string>
       <string>Se siente vacío</string>
       <string>Elle sonne creux</string>
-      <string>kakizos</string>
+      <string>Kong az ürességtől</string>
     </key>
     <key name="FORGOTTEN_LULLABY_NAME">
       <string>Forgotten Lullaby</string>
@@ -20231,7 +20231,7 @@
       <string>Uraltes Wiegenlied</string>
       <string>Canción de cuna olvidada</string>
       <string>Berceuse Oubliée</string>
-      <string>kakizos</string>
+      <string>Elfelejtett Altalódal</string>
     </key>
     <key name="FORGOTTEN_LULLABY_DESCRIPTION">
       <string>Sing for your friends</string>
@@ -20242,7 +20242,7 @@
       <string>Sing für deine Freunde</string>
       <string>Canta por tus amigos</string>
       <string>Chante pour tes amis</string>
-      <string>kakizos</string>
+      <string>Énekelj a barátaidnak</string>
     </key>
     <key name="BETHS_FAITH_NAME">
       <string>Beth's Faith</string>
@@ -20253,7 +20253,7 @@
       <string>Beths Glaube</string>
       <string>Fe de Beth</string>
       <string>Foi de Béthanie</string>
-      <string>kakizos</string>
+      <string>Betti Hite</string>
     </key>
     <key name="BETHS_FAITH_DESCRIPTION">
       <string>My faith protects me</string>
@@ -20264,7 +20264,7 @@
       <string>Mein Glaube schützt mich</string>
       <string>Mi fe me protege</string>
       <string>Ma foi me protège</string>
-      <string>kakizos</string>
+      <string>A hitem megvéd engem</string>
     </key>
     <key name="OLD_CAPACITOR_NAME">
       <string>Old Capacitor</string>
@@ -20275,7 +20275,7 @@
       <string>Alter Kondensator</string>
       <string>Condensador viejo</string>
       <string>Condensateur</string>
-      <string>kakizos</string>
+      <string>Régi Kondenzátor</string>
     </key>
     <key name="OLD_CAPACITOR_DESCRIPTION">
       <string>Voltage starving</string>
@@ -20297,7 +20297,7 @@
       <string>Hirnwurm</string>
       <string>Gusano de cerebro</string>
       <string>Parasite Cérébral</string>
-      <string>kakizos</string>
+      <string>Áramzabáló</string>
     </key>
     <key name="BRAIN_WORM_DESCRIPTION">
       <string>Ding!</string>
@@ -20308,7 +20308,7 @@
       <string>Zack!</string>
       <string>¡Ding!</string>
       <string>Ding !</string>
-      <string>kakizos</string>
+      <string>Ding!</string>
     </key>
     <key name="PERFECTION_NAME">
       <string>Perfection</string>
@@ -20319,7 +20319,7 @@
       <string>Perfektion</string>
       <string>Perfección</string>
       <string>Perfection</string>
-      <string>kakizos</string>
+      <string>Tökély</string>
     </key>
     <key name="PERFECTION_DESCRIPTION">
       <string>Luck way up. Don't lose it!</string>
@@ -20330,7 +20330,7 @@
       <string>Glück extrem hoch. Verlier es nicht!</string>
       <string>Mucha suerte. ¡No lo pierdas!</string>
       <string>Chance fortement augmentée. Ne la perds pas !</string>
-      <string>kakizos</string>
+      <string>Rengeteg szerencse. Ne veszd el!</string>
     </key>
     <key name="DEVILS_CROWN_NAME">
       <string>Devil's Crown</string>
@@ -20341,7 +20341,7 @@
       <string>Teufelskrone</string>
       <string>Corona del diablo</string>
       <string>Couronne du Diable</string>
-      <string>kakizos</string>
+      <string>Az Ördög Koronája</string>
     </key>
     <key name="DEVILS_CROWN_DESCRIPTION">
       <string>His special customer</string>
@@ -20352,7 +20352,7 @@
       <string>Sein besonderer Kunde</string>
       <string>Su cliente especial</string>
       <string>Son client favori</string>
-      <string>kakizos</string>
+      <string>A kedvenc ügyfél</string>
     </key>
     <key name="CHARGED_PENNY_NAME">
       <string>Charged Penny</string>
@@ -20363,7 +20363,7 @@
       <string>Geladener Penny</string>
       <string>Moneda recargada</string>
       <string>Pièce Électrisée</string>
-      <string>kakizos</string>
+      <string>Elektromos Forint</string>
     </key>
     <key name="CHARGED_PENNY_DESCRIPTION">
       <string>Wealth of power</string>
@@ -20374,7 +20374,7 @@
       <string>Reichtum an Macht</string>
       <string>Llena de energía</string>
       <string>Riche en volts</string>
-      <string>kakizos</string>
+      <string>Energiában gazdag</string>
     </key>
     <key name="FRIENDSHIP_NECKLACE_NAME">
       <string>Friendship Necklace</string>
@@ -20385,7 +20385,7 @@
       <string>Freundschaftskette</string>
       <string>Collar de la amistad</string>
       <string>Collier d'Amitié</string>
-      <string>kakizos</string>
+      <string>Barát Nyaklánc</string>
     </key>
     <key name="FRIENDSHIP_NECKLACE_DESCRIPTION">
       <string>Gather round</string>
@@ -20396,7 +20396,7 @@
       <string>Kommt zusammen</string>
       <string>Reunanse</string>
       <string>Tous en ronde</string>
-      <string>kakizos</string>
+      <string>Üljük körbe!</string>
     </key>
     <key name="PANIC_BUTTON_NAME">
       <string>Panic Button</string>
@@ -20407,7 +20407,7 @@
       <string>Panik-Knopf</string>
       <string>Botón de pánico</string>
       <string>Bouton Rouge</string>
-      <string>kakizos</string>
+      <string>Pánik Gomb </string>
     </key>
     <key name="PANIC_BUTTON_DESCRIPTION">
       <string>Push in case of emergency</string>
@@ -20418,7 +20418,7 @@
       <string>Im Notfall drücken</string>
       <string>Púlsalo en caso de emergencia</string>
       <string>N'appuyer qu'en cas d'urgence</string>
-      <string>kakizos</string>
+      <string>Nyomja be vészhelyzet esetén</string>
     </key>
     <key name="BLUE_KEY_NAME">
       <string>Blue Key</string>
@@ -20429,7 +20429,7 @@
       <string>Blauer Schlüssel</string>
       <string>Llave azul</string>
       <string>Clé Bleue</string>
-      <string>kakizos</string>
+      <string>Kék Kulcs</string>
     </key>
     <key name="BLUE_KEY_DESCRIPTION">
       <string>Look between the rooms</string>
@@ -20440,7 +20440,7 @@
       <string>Suche zwischen den Räumen</string>
       <string>Observa entre habitaciones</string>
       <string>Explore l'entre-mondes</string>
-      <string>kakizos</string>
+      <string>Kukkants be a szobák közé</string>
     </key>
     <key name="FLAT_FILE_NAME">
       <string>Flat File</string>
@@ -20451,7 +20451,7 @@
       <string>Flache Feile</string>
       <string>Lima</string>
       <string>Lime Plate</string>
-      <string>kakizos</string>
+      <string>Lapos Reszelő</string>
     </key>
     <key name="FLAT_FILE_DESCRIPTION">
       <string>No more spikes</string>
@@ -20462,7 +20462,7 @@
       <string>Keine Stacheln mehr</string>
       <string>No más pinchos</string>
       <string>À bas les piques !</string>
-      <string>kakizos</string>
+      <string>Le reszeltük az összes tüskét</string>
     </key>
     <key name="TELESCOPE_LENS_NAME">
       <string>Telescope Lens</string>
@@ -20473,7 +20473,7 @@
       <string>Teleskop-Objektiv</string>
       <string>Lente de telescopio</string>
       <string>Lentille de Télescope</string>
-      <string>kakizos</string>
+      <string>Teleszkóp Lencse</string>
     </key>
     <key name="TELESCOPE_LENS_DESCRIPTION">
       <string>Seek the stars</string>
@@ -20484,7 +20484,7 @@
       <string>Suche die Sterne</string>
       <string>Busca las estrellas</string>
       <string>Observe les cieux</string>
-      <string>kakizos</string>
+      <string>Keresd a csillagokat</string>
     </key>
     <key name="MOMS_LOCK_NAME">
       <string>Mom's Lock</string>
@@ -20495,7 +20495,7 @@
       <string>Mamas Locke</string>
       <string>Mechón de Mamá</string>
       <string>Mèche de Maman</string>
-      <string>kakizos</string>
+      <string>Anyuci Hajtincse</string>
     </key>
     <key name="MOMS_LOCK_DESCRIPTION">
       <string>A piece of her love</string>
@@ -20506,7 +20506,7 @@
       <string>Ein Stück ihrer Liebe</string>
       <string>Una pedazo de su amor</string>
       <string>Une poignée de son amour</string>
-      <string>kakizos</string>
+      <string>Agy darab a szeretetéből</string>
     </key>
     <key name="DICE_BAG_NAME">
       <string>Dice Bag</string>
@@ -20517,7 +20517,7 @@
       <string>Würfelbeutel</string>
       <string>Bolsa de dados</string>
       <string>Sac de Dés</string>
-      <string>kakizos</string>
+      <string>Kocka Zsák</string>
     </key>
     <key name="DICE_BAG_DESCRIPTION">
       <string>Bonus roll</string>
@@ -20528,7 +20528,7 @@
       <string>Bonuswurf</string>
       <string>Cambio extra</string>
       <string>Il est plein de dés</string>
-      <string>kakizos</string>
+      <string>Bónusz dobás</string>
     </key>
     <key name="HOLY_CROWN_NAME">
       <string>Holy Crown</string>
@@ -20539,7 +20539,7 @@
       <string>Heilige Krone</string>
       <string>Corona sagrada</string>
       <string>Couronne Sacrée</string>
-      <string>kakizos</string>
+      <string>Szent Korona</string>
     </key>
     <key name="HOLY_CROWN_DESCRIPTION">
       <string>Walk the path of the saint</string>
@@ -20550,7 +20550,7 @@
       <string>Geh den Weg des Heiligen</string>
       <string>Ve por el camino de los santos</string>
       <string>Suis la voie du Seigneur</string>
-      <string>kakizos</string>
+      <string>Járd a szentek utát</string>
     </key>
     <key name="MOTHERS_KISS_NAME">
       <string>Mother's Kiss</string>
@@ -20561,7 +20561,7 @@
       <string>Kuss der Mutter</string>
       <string>Beso de mamá</string>
       <string>Bisou de Maman</string>
-      <string>kakizos</string>
+      <string>Anyai sók</string>
     </key>
     <key name="MOTHERS_KISS_DESCRIPTION">
       <string>HP up</string>
@@ -20572,7 +20572,7 @@
       <string>TP hoch</string>
       <string>+ Vida</string>
       <string>PV augmentés</string>
-      <string>kakizos</string>
+      <string>Több szív</string>
     </key>
     <key name="TORN_CARD_NAME">
       <string>Torn Card</string>
